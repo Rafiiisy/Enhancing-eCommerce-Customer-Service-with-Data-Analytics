@@ -3,6 +3,10 @@
 ## Goal
 The primary objective is to enhance the overall performance of customer service operations by understanding feature correlations and identifying critical factors that drive success. This includes improving data quality, deriving actionable insights, and optimizing processes through comprehensive analysis.
 
+## Additional Documentation
+For further details on the business requirements, refer to the [Business Requirements Document (BRD)](./doc/BRD.md).
+
+
 ## Sections Overview
 
 ### 1. Setup
